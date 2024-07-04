@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my 1st repository
 <br>
-Autor Name - Tejas Malusare
+Autor Name - Tejas Malusare (Apna College)
